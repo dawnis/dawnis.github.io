@@ -1,6 +1,3 @@
 # dawnis.github.io
 
-## Projects
-
-## Convolutional Networks for Feature Detection in Calcium Imaging Experiments
-See directory: Convolutional_Network_Ca_Transients
+ Please go to: dawnis.github.io for the Github Pages Site. 
